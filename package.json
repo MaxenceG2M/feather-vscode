@@ -3,7 +3,7 @@
   "displayName": "Feather Product Icons",
   "description": "Feather Product Icons for VS Code",
   "publisher": "melishev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": ".github/assets/icon.png",
   "categories": [
     "Themes"
